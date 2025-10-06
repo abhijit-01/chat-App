@@ -96,8 +96,8 @@ Frontend: Deploy on Vercel or Netlify. Update the API base URL to point to your 
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
 
 ## 📧 Contact
-Author: Abhijit
+Author: Abhijit Tripathy
 
-Email: abhijit.kr.chaurasiya@gmail.com
+Email: abhijittripathy606@gmail.com
 
-LinkedIn: Abhijit Kumar
+LinkedIn: https://www.linkedin.com/in/abhijit-tripathy-183618257/
