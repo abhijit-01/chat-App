@@ -1,6 +1,6 @@
 # ChatApp - Real-Time Messaging Platform
 
-![ChatApp Banner](assets/banner.png)
+![ChatApp Banner](https://github.com/abhijit-01/chat-App/blob/main/assests/banner.png?raw=true)
 
 ## 🚀 Overview
 
