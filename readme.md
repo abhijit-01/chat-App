@@ -91,7 +91,8 @@ Backend: Deploy on Heroku, Render, or Railway. Make sure the MongoDB URI and JWT
 Frontend: Deploy on Vercel or Netlify. Update the API base URL to point to your deployed backend.
 
 ## 📷 Screenshots
-
+![Home-Page](https://github.com/abhijit-01/chat-App/blob/main/assests/homepage.png?raw=true)
+![Chat-Section](https://github.com/abhijit-01/chat-App/blob/main/assests/chat-section.png?raw=true)
 
 ## 🤝 Contributing
 
