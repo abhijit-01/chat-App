@@ -36,32 +36,31 @@ It allows users to communicate instantly in a secure environment, featuring user
 
 Run these commands to clone the repo:
 
-```bash
+```
 git clone https://github.com/abhijit-01/chat-App.git
 cd chat-App
 Backend Setup
 Navigate to the backend folder and install dependencies:
 
-bash
-Copy code
+
 cd backend
 npm install
 Create a .env file in the backend folder with the following:
 
 env
-Copy code
+
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
 Start the backend server:
 
-bash
-Copy code
+
+
 npm start
 Frontend Setup
 Navigate to the frontend folder and install dependencies:
 
-bash
+
 Copy code
 cd ../frontend
 npm install
@@ -99,6 +98,6 @@ Frontend: Deploy on Vercel or Netlify. Update the API base URL to point to your 
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
 
 ## 📧 Contact
-Author: Abhijit
+Author: Abhijit Tripathy
 
 LinkedIn: https://www.linkedin.com/in/abhijit-tripathy-183618257/
