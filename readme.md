@@ -93,17 +93,12 @@ Frontend: Deploy on Vercel or Netlify. Update the API base URL to point to your 
 
 ## 📷 Screenshots
 
-![Home Page](https://raw.githubusercontent.com/abhijit-01/chat-App/refs/heads/main/assests/homepage.png)
-![Chat Section](https://raw.githubusercontent.com/abhijit-01/chat-App/refs/heads/main/assests/chat-section.png)
 
 ## 🤝 Contributing
 
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
 
 ## 📧 Contact
-
-Author: Abhijit Tripathy
-
-Email: abhijittripathy606@gmail.com
+Author: Abhijit
 
 LinkedIn: https://www.linkedin.com/in/abhijit-tripathy-183618257/
