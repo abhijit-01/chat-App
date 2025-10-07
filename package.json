@@ -1,0 +1,21 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "![ChatApp Banner](https://github.com/abhijit-01/chat-App/blob/main/assests/banner.png?raw=true)",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhijit-01/chat-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhijit-01/chat-App/issues"
+  },
+  "homepage": "https://github.com/abhijit-01/chat-App#readme"
+}
