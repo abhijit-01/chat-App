@@ -6,6 +6,7 @@
 
 ChatApp is a modern, real-time messaging platform built with the **MERN stack** (MongoDB, Express.js, React, Node.js) and **Socket.io**.  
 It allows users to communicate instantly in a secure environment, featuring user authentication, private chats, group chats, and online presence indicators.
+You can check out the website here : - https://chat-app-fej2.onrender.com/
 
 ---
 
