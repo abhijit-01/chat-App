@@ -1,6 +1,6 @@
 # ChatApp - Real-Time Messaging Platform
 
-![ChatApp Banner](assets/banner.png)
+![ChatApp Banner](https://github.com/abhijit-01/chat-App/blob/main/assests/banner.png?raw=true)
 
 ## 🚀 Overview
 
@@ -11,22 +11,22 @@ It allows users to communicate instantly in a secure environment, featuring user
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Socket.io-client, Axios, React Router  
-- **Backend:** Node.js, Express.js, Socket.io, JWT Authentication  
-- **Database:** MongoDB, Mongoose  
-- **Authentication:** JWT (JSON Web Tokens)  
+- **Frontend:** React, Socket.io-client, Axios, React Router
+- **Backend:** Node.js, Express.js, Socket.io, JWT Authentication
+- **Database:** MongoDB, Mongoose
+- **Authentication:** JWT (JSON Web Tokens)
 - **Deployment:** [Add your deployment platform]
 
 ---
 
 ## 📸 Features
 
-- Secure **User Authentication** (registration and login with JWT)  
-- **Real-Time Messaging** via Socket.io  
-- **Private & Group Chats**  
-- **Online Presence** indicator for users  
-- **Message History**  
-- Fully **Responsive Design** for desktop and mobile  
+- Secure **User Authentication** (registration and login with JWT)
+- **Real-Time Messaging** via Socket.io
+- **Private & Group Chats**
+- **Online Presence** indicator for users
+- **Message History**
+- Fully **Responsive Design** for desktop and mobile
 
 ---
 
@@ -70,6 +70,7 @@ Open http://localhost:3000 to view the app.
 ```
 
 ## 🔐 Authentication Flow
+
 User Registration: Users sign up with a username, email, and password.
 
 User Login: Successful login generates a JWT token stored on the client for authenticated requests.
@@ -77,6 +78,7 @@ User Login: Successful login generates a JWT token stored on the client for auth
 Token Verification: Protected routes validate the JWT on the backend to ensure security.
 
 ## ⚡ Real-Time Communication
+
 Socket.io manages real-time messaging and online presence.
 
 Users join rooms (private or group) to exchange messages instantly.
@@ -84,19 +86,24 @@ Users join rooms (private or group) to exchange messages instantly.
 Key events: message, user-connected, user-disconnected.
 
 ## 🌐 Deployment
+
 Backend: Deploy on Heroku, Render, or Railway. Make sure the MongoDB URI and JWT secret are set as environment variables.
 
 Frontend: Deploy on Vercel or Netlify. Update the API base URL to point to your deployed backend.
 
 ## 📷 Screenshots
 
+![Home Page](https://raw.githubusercontent.com/abhijit-01/chat-App/refs/heads/main/assests/homepage.png)
+![Chat Section](https://raw.githubusercontent.com/abhijit-01/chat-App/refs/heads/main/assests/chat-section.png)
 
 ## 🤝 Contributing
+
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
 
 ## 📧 Contact
-Author: Abhijit
 
-Email: abhijit.kr.chaurasiya@gmail.com
+Author: Abhijit Tripathy
 
-LinkedIn: Abhijit Kumar
+Email: abhijittripathy606@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/abhijit-tripathy-183618257/
